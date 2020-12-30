@@ -1,0 +1,3 @@
+include ':librarycuatui'
+include ':app'
+rootProject.name = "InforUserSdk"
